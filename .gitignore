@@ -57,3 +57,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+.classpath
+.project
+.settings
+scratch.jpage
