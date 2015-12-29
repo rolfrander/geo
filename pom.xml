@@ -5,4 +5,5 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>geo</name>
   <description>Conversions between coordinate systems</description>
+  <url>https://github.com/rolfrander/geo</url>
 </project>
