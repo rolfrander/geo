@@ -16,5 +16,8 @@ WGS84 wgs_b = new WGS84(utm_a);
 UTM utm_b = new UTM(wgs_a);
 ```
 
+More explanations of the math can be found 
+[here](http://www.uwgb.edu/dutchs/UsefulData/UTMFormulas.htm).
+
 # BUGS
 There is no error-handling...
